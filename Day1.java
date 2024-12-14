@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Part1 {
+public class Day1 {
 
     public static void main(String[] args){
         System.out.println("The solution to part 1 is: " + part1());
