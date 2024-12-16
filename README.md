@@ -1,7 +1,7 @@
 # Advent of Code
 
 [Advent of Code](https://adventofcode.com/2024) is a advent calendar of coding challenges that can be solved in any programming language.
-The challenges are given in the form of an input that is randomly generated for every user and then instructions of what to extract form the input.
+The challenges are given in the form of an input that is randomly generated for every user and then instructions of what to extract form the input. Each challenge has two parts, the frist part requires you to get the input in some form of data structure that can be manipulated to find the sollution to the challege, then to find the sollution. The second part builds upon the first part, and depending on the day requires anything from changing a line or two in an if statement to designing a completely new sollution starting from where the input is read in.
 
 
 I am currently working on solving these challenges and will add my sollutions to this repository as I solve them.
