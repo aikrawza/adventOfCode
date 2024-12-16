@@ -11,3 +11,4 @@ I am currently working on solving these challenges and will add my sollutions to
 | 1   | Array sorting and comparison   |
 | 2   | Array minipulation to determine if the array is in order and has steps between 1 and 3|
 | 3   | Used java.util.regex library to search for patterns in the input |
+| 4   | 2D array traversal and comparison |
